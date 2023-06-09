@@ -1,4 +1,4 @@
 #Template
-[ ]boram
-[ ]Giwan
-[ ]zor29
+* [X]boram
+* [ ]Giwan
+* [ ]zor29
